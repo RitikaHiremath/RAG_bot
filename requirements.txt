@@ -1,7 +1,8 @@
 langchain
 langchain-community
-langchain-openai
+langchain-groq
+langchain_huggingface
 langgraph
 chromadb
-openai
+groq
 python-dotenv
